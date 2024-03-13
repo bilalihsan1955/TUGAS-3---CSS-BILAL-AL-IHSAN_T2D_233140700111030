@@ -1,0 +1,2 @@
+This website is not yet responsive on mobile devices 
+and it is recommended to open it with a desktop or PC website application
